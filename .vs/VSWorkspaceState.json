@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\SoftEngine"
   ],
+  "SelectedNode": "\\SoftEngine\\MainWindow.xaml.cs",
   "PreviewInSolutionExplorer": false
 }
